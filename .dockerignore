@@ -1,0 +1,14 @@
+# Ignore local stuff so the image stays small
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.venv/
+venv/
+.git/
+.gitignore
+.idea/
+.vscode/
+.DS_Store
